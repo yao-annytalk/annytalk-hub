@@ -1,0 +1,23 @@
+{
+  "name": "annytalkhub",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^11.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.2",
+    "recharts": "^2.10.3",
+    "@heroicons/react": "^2.1.5"
+  },
+  "devDependencies": {
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "lint": "echo \"Add linters if you want\""
+  }
+}
